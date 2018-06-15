@@ -6,6 +6,13 @@
     "database": "cheat_sheet",
     "driver": "mysql",
     "multipleStatements": true
+  },
+  "test": {
+    "host": "localhost",
+    "user": "root",
+    "password" : "",
+    "database": "cheat_sheet_test",
+    "driver": "mysql",
+    "multipleStatements": true
   }
-
 }
