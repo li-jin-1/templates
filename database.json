@@ -1,0 +1,11 @@
+{
+  "development": {
+    "host": "localhost",
+    "user": "root",
+    "password" : "",
+    "database": "cheat_sheet",
+    "driver": "mysql",
+    "multipleStatements": true
+  }
+
+}
