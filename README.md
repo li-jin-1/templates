@@ -1,1 +1,1 @@
-# chichi
+This is node-mvc template
